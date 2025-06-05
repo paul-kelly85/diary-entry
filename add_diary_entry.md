@@ -12,14 +12,14 @@ These instructions will guide you through creating a daily diary markdown file a
 
 ### 1. Navigate to the repository
 ```bash
-cd /Users/vladgheorghe/code/ai-trader-frontend
+cd https://github.com/paul-kelly85/diary-entry/
 ```
 
 ### 2. Create the diary file
 Use the Write tool to create the markdown file with today's date:
 ```
 Write tool:
-- file_path: /Users/vladgheorghe/code/ai-trader-frontend/dashboard/data/diary/default_YYYY-MM-DD.md
+- file_path: /Users//code/ai-trader-frontend/dashboard/data/diary/default_YYYY-MM-DD.md
 - content: [Your diary content here]
 ```
 Replace `YYYY-MM-DD` with the actual date (e.g., 2025-05-10).
