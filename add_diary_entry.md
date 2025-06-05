@@ -76,6 +76,7 @@ You should see: "Your branch is up to date with 'origin/main'."
 
 ## Notes
 - Always use absolute paths when working with files
+- always use the exisiting branch to create the file
 - The diary content should be a single paragraph of markdown
 - Commit messages should follow the format: "Add diary entry for YYYY-MM-DD"
 - If using Batch tool to run multiple commands, handle errors gracefully
