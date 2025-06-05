@@ -5,7 +5,7 @@ These instructions will guide you through creating a daily diary markdown file a
 
 ## Prerequisites
 - You already have the diary content to write
-- You are working in the repository: `/Users/vladgheorghe/code/ai-trader-frontend`
+- You are working in the repository: `https://github.com/paul-kelly85/diary-entry/edit/main/`
 - The diary files are stored in: `dashboard/data/diary/`
 
 ## Step-by-Step Instructions
