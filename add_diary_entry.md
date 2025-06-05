@@ -19,13 +19,13 @@ cd https://github.com/paul-kelly85/diary-entry
 Use the Write tool to create the markdown file with today's date:
 ```
 Write tool:
-- file_path: https://github.com/paul-kelly85/diary-entry/main/default_{date}.md
+- file_path: https://github.com/paul-kelly85/diary-entry/default_{date}.md
 - content: [Your diary content here]
 ```
 
 ### 3. Add the file to git
 ```bash
-git add data/diary/default_YYYY-MM-DD.md
+git add default_{date}.md
 ```
 
 ### 4. Commit the file
