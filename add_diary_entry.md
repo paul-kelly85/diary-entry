@@ -5,7 +5,7 @@ These instructions will guide you through creating a daily diary markdown file a
 
 ## Prerequisites
 - You already have the diary content to write
-- You are working in the repository: `https://github.com/paul-kelly85/diary-entry/edit/main/`
+- You are working in the repository: `https://github.com/paul-kelly85/diary-entry`
 - The diary files are stored in: `dashboard/data/diary/`
 
 ## Step-by-Step Instructions
@@ -19,14 +19,13 @@ cd https://github.com/paul-kelly85/diary-entry/
 Use the Write tool to create the markdown file with today's date:
 ```
 Write tool:
-- file_path: /Users//code/ai-trader-frontend/dashboard/data/diary/default_YYYY-MM-DD.md
+- file_path: https://github.com/paul-kelly85/diary-entry/blob/main/default_{date}.md
 - content: [Your diary content here]
 ```
-Replace `YYYY-MM-DD` with the actual date (e.g., 2025-05-10).
 
 ### 3. Add the file to git
 ```bash
-git add dashboard/data/diary/default_YYYY-MM-DD.md
+git add data/diary/default_YYYY-MM-DD.md
 ```
 
 ### 4. Commit the file
