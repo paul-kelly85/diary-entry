@@ -6,20 +6,20 @@ These instructions will guide you through creating a daily diary markdown file a
 ## Prerequisites
 - You already have the diary content to write
 - You are working in the repository: `https://github.com/paul-kelly85/diary-entry`
-- The diary files are stored in: `dashboard/data/diary/`
+- The diary files are stored in: `data/diary/`
 
 ## Step-by-Step Instructions
 
 ### 1. Navigate to the repository
 ```bash
-cd https://github.com/paul-kelly85/diary-entry/
+cd https://github.com/paul-kelly85/diary-entry
 ```
 
 ### 2. Create the diary file
 Use the Write tool to create the markdown file with today's date:
 ```
 Write tool:
-- file_path: https://github.com/paul-kelly85/diary-entry/blob/main/default_{date}.md
+- file_path: https://github.com/paul-kelly85/diary-entry/main/default_{date}.md
 - content: [Your diary content here]
 ```
 
